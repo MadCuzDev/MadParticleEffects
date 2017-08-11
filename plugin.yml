@@ -1,0 +1,9 @@
+main: me.MadParticleEffects.MadCuzDev.MadParticleEffects
+name: MadParticleEffects
+version: 1.0
+author: MadCuzDev
+commands:
+  particle:
+    description: Have some particles
+    usage: /particle
+    aliases: [pe]
